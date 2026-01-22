@@ -13,7 +13,7 @@
 (function () {
     'use strict';
 
-    console.log('✅ Script Tampermonkey chargéeeeeeeeee');
+    console.log('✅ Script Tampermonkey chargéeeeeeeeeeéééééééé');
 
     sayHello('Tampermonkey');
 })();
