@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TM Example – Hello World
 // @namespace    https://github.com/hikem1/tm-example
-// @version      1.0.5
+// @version      1.0.6
 // @description  Exemple Tampermonkey développé avec VS Code et GitHub
 // @match           *://*/*
 // @updateURL    https://raw.githubusercontent.com/hikem1/tm-example/main/myscript.user.js
