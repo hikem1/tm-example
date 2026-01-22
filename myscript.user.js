@@ -13,7 +13,7 @@
 (function () {
     'use strict';
 
-    console.log('✅ Script Tampermonkey chargé depuis git thubbbbbbbbbbiiiiii');
+    console.log('✅ Script Tampermonkey chargé depuis git thubbbbbbbbbbiiiii');
 
     sayHello('Tampermonkey');
 })();
