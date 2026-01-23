@@ -7,13 +7,13 @@
 // @updateURL    https://raw.githubusercontent.com/hikem1/tm-example/main/myscript.user.js
 // @downloadURL  https://raw.githubusercontent.com/hikem1/tm-example/main/myscript.user.js
 // @grant        none
-// @require      https://raw.githubusercontent.com/hikem1/tm-example/main/lib.js?v=1.0.0.1
+// @require      https://raw.githubusercontent.com/hikem1/tm-example/main/lib.js
 // ==/UserScript==
 
 (function () {
     'use strict';
 
-    console.log('✅ Script Tampermonkey chargé');
+    console.log('✅ Script Tampermonkey chargé!!!!');
 
     sayHello('Tampermonkey');
 })();
